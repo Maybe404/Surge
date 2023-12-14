@@ -1,0 +1,2 @@
+DOMAIN,metrics-picture.d.meituan.net DOMAIN,route-stats.d.meituan.net DOMAIN,maplocatesdksnapshot.d.meituan.net DOMAIN,al-log.d.meituan.net
+DOMAIN,babel-statistics-android.d.meituan.net  // 屏蔽查询失败域名
