@@ -1,3 +1,10 @@
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN,cn.czmanga.com // Added for: cn.czmanga.com:443
 DOMAIN-KEYWORD,baozi,extended-matching // Added for: s1-dpa1-cnhk.baozicdn.com:443
+DOMAIN,passport.bilibili.com
+DOMAIN,mail.bilibili.com
+DOMAIN-SUFFIX,subhd.tv
+DOMAIN,dataflow.biliapi.com
+DOMAIN,ad.12306.cn
+DOMAIN,amdc.m.taobao.com
+DOMAIN,ca.iadsdk.apple.com
