@@ -4,3 +4,4 @@ DOMAIN,route-stats.d.meituan.net
 DOMAIN,maplocatesdksnapshot.d.meituan.net 
 DOMAIN,al-log.d.meituan.net
 DOMAIN,babel-statistics-android.d.meituan.net  
+IP-CIDR,180.76.76.200/32,REJECT-NO-DROP,no-resolve
